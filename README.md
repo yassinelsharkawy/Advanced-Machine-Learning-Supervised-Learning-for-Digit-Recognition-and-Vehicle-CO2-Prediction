@@ -1,0 +1,2 @@
+# Advanced-Machine-Learning-Supervised-Learning-for-Digit-Recognition-and-Vehicle-CO2-Prediction
+An Advanced Machine Learning course project applying supervised learning to two tasks: handwritten-digit classification with MNIST using decision trees and artificial neural networks, and vehicle CO2-emission prediction using support vector machines. The repository includes Jupyter notebooks, Python GUI files, and the dataset used for regression.
